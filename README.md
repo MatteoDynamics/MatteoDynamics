@@ -1,13 +1,9 @@
 ### Hi there 👋, my name is Mateusz Kłosiński
 #### Electronic 3rd year student and 2nd year Mechatronics
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="200">
-  </div>
-  <div style="flex: 1;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcuKNPGlCJtM14LWK2ehv7iLpmsMfEqyenpYd8QjrBw&s" alt="Electronic 3rd year student and 2nd year Mechatronics" width="200">
-  </div>
+<div style="text-align: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="200">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcuKNPGlCJtM14LWK2ehv7iLpmsMfEqyenpYd8QjrBw&s" alt="Electronic 3rd year student and 2nd year Mechatronics" width="200">
 </div>
 
 I am a really ambitious undergraduate student interested in electronics and space
