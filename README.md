@@ -20,4 +20,6 @@ Student Scientific Association "PWR in Space" in electronics department.
 * LateX,
 * Unix
 
-- 🔭 I’m currently working on this page.
+## Stats
+[![MatteoDynamics's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoDynamics)](https://github.com/anuraghazra/github-readme-stats)
+
