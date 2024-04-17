@@ -3,10 +3,12 @@
 <!--
 **MatteoDynamics/MatteoDynamics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoDynamics)](https://github.com/MatteoDynamics/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning on PCB Design and
+- 🌱 I’m currently learning on PCB Design and Embedded Systems.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,12 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hey there :wave:
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
