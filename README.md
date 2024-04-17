@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Mateusz Kłosiński
+#### Electronic 3rd year student and 2nd year Mechatronics
+![Electronic 3rd year student and 2nd year Mechatronics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcuKNPGlCJtM14LWK2ehv7iLpmsMfEqyenpYd8QjrBw&s)
 
-<!--
-**MatteoDynamics/MatteoDynamics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a really ambitious undergraduate student interested in electronics and space
+exploration, with some practical experience related to study projects, and activity in
+Student Scientific Association "PWR in Space" in electronics department.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoDynamics)](https://github.com/anuraghazra/github-readme-stats)
+Skills: C++, C, Python, Matlab, LateX, Unix
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning on PCB Design and Embedded Systems.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
