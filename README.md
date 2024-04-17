@@ -9,6 +9,7 @@ Student Scientific Association "PWR in Space" in electronics department.
 ## Skills and Experience
 * C++,
 * C,
+* STM32/ESP programming
 * Python,
 * Matlab,
 * LateX,
