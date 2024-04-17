@@ -6,7 +6,13 @@ I am a really ambitious undergraduate student interested in electronics and spac
 exploration, with some practical experience related to study projects, and activity in
 Student Scientific Association "PWR in Space" in electronics department.
 
-Skills: C++, C, Python, Matlab, LateX, Unix
+##Skills and Experience
+* C++,
+* C,
+* Python,
+* Matlab,
+* LateX,
+* Unix
 
 - 🔭 I’m currently working on this page. 
 
