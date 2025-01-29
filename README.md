@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mateusz Kłosiński
-#### Electronic 2nd year student and 3rd year Mechatronics
+#### Electronic 3rd year student and 3rd year Mechatronics
 
 <div style="text-align: center;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcuKNPGlCJtM14LWK2ehv7iLpmsMfEqyenpYd8QjrBw&s" alt="Electronic 3rd year student and 2nd year Mechatronics" width="200">
